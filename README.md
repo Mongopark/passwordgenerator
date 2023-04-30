@@ -1,5 +1,5 @@
 # Password-Generator
-https://passwordgenerator.vercel.app
+https://passwordgenerator-mongopark.vercel.app
  is the link to the hosted page
 
 
